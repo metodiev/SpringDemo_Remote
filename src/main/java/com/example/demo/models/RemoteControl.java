@@ -13,6 +13,7 @@ public class RemoteControl {
     private int distance;
 
     public boolean isPowerButton() {
+        System.out.println("none");
         return powerButton;
     }
 
